@@ -239,13 +239,19 @@ internal class Program
     {
         Console.WriteLine(message);
 
-        string doseInput = Console.ReadLine();
+        string countInput = Console.ReadLine();
 
-        if (doseInput == "0") GetUserInput();
+        while (!Int32.TryParse(countInput, out _) || Convert.ToInt32(countInput) < 0)
+        {
+            Console.WriteLine("\n\nInvalid number. Try again.\n\n");
+            countInput = Console.ReadLine();
+        }
 
-        int intDoseInput = Convert.ToInt32(doseInput);
+        if (countInput == "0") GetUserInput();
 
-        return intDoseInput;
+        int intCountInput = Convert.ToInt32(countInput);
+
+        return intCountInput;
     }
 }
 
