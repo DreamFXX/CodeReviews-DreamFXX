@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "TXReARQurUI=",
+  "dgSpecHash": "tpoMTe6PFns=",
   "success": true,
-  "projectFilePath": "C:\\Users\\marti\\csharp-academy-learning\\Projects\\HabitTracker_ConsoleApp\\HabitTracker_ConsoleApp.csproj",
+  "projectFilePath": "C:\\Users\\marti\\source\\CodeReviews.csharp-academy\\HabitTracker.ConsoleApp-DreamFXX\\HabitTracker_ConsoleApp.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\marti\\.nuget\\packages\\entityframework\\6.4.4\\entityframework.6.4.4.nupkg.sha512",
     "C:\\Users\\marti\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
@@ -33,7 +33,7 @@
       "code": "NU1902",
       "level": "Warning",
       "warningLevel": 1,
-      "message": "Balíček „System.Data.SqlClient“ 4.8.1 má známé střední ohrožení zabezpečení závažnosti, https://github.com/advisories/GHSA-8g2p-5pqh-5jmc",
+      "message": "Package 'System.Data.SqlClient' 4.8.1 has a known moderate severity vulnerability, https://github.com/advisories/GHSA-8g2p-5pqh-5jmc",
       "libraryId": "System.Data.SqlClient",
       "targetGraphs": [
         "net8.0"
@@ -43,7 +43,7 @@
       "code": "NU1903",
       "level": "Warning",
       "warningLevel": 1,
-      "message": "Balíček „System.Data.SqlClient“ 4.8.1 má známé vysoké ohrožení zabezpečení závažnosti, https://github.com/advisories/GHSA-98g6-xh36-x2p7",
+      "message": "Package 'System.Data.SqlClient' 4.8.1 has a known high severity vulnerability, https://github.com/advisories/GHSA-98g6-xh36-x2p7",
       "libraryId": "System.Data.SqlClient",
       "targetGraphs": [
         "net8.0"
@@ -53,7 +53,7 @@
       "code": "NU1904",
       "level": "Warning",
       "warningLevel": 1,
-      "message": "Balíček „System.Drawing.Common“ 4.7.0 má známé kritické ohrožení zabezpečení závažnosti, https://github.com/advisories/GHSA-rxg9-xrhp-64gj",
+      "message": "Package 'System.Drawing.Common' 4.7.0 has a known critical severity vulnerability, https://github.com/advisories/GHSA-rxg9-xrhp-64gj",
       "libraryId": "System.Drawing.Common",
       "targetGraphs": [
         "net8.0"

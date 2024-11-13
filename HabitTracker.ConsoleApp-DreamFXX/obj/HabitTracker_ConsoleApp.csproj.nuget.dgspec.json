@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\marti\\csharp-academy-learning\\Projects\\HabitTracker_ConsoleApp\\HabitTracker_ConsoleApp.csproj": {}
+    "C:\\Users\\marti\\source\\CodeReviews.csharp-academy\\HabitTracker.ConsoleApp-DreamFXX\\HabitTracker_ConsoleApp.csproj": {}
   },
   "projects": {
-    "C:\\Users\\marti\\csharp-academy-learning\\Projects\\HabitTracker_ConsoleApp\\HabitTracker_ConsoleApp.csproj": {
+    "C:\\Users\\marti\\source\\CodeReviews.csharp-academy\\HabitTracker.ConsoleApp-DreamFXX\\HabitTracker_ConsoleApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\marti\\csharp-academy-learning\\Projects\\HabitTracker_ConsoleApp\\HabitTracker_ConsoleApp.csproj",
+        "projectUniqueName": "C:\\Users\\marti\\source\\CodeReviews.csharp-academy\\HabitTracker.ConsoleApp-DreamFXX\\HabitTracker_ConsoleApp.csproj",
         "projectName": "HabitTracker_ConsoleApp",
-        "projectPath": "C:\\Users\\marti\\csharp-academy-learning\\Projects\\HabitTracker_ConsoleApp\\HabitTracker_ConsoleApp.csproj",
+        "projectPath": "C:\\Users\\marti\\source\\CodeReviews.csharp-academy\\HabitTracker.ConsoleApp-DreamFXX\\HabitTracker_ConsoleApp.csproj",
         "packagesPath": "C:\\Users\\marti\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\marti\\csharp-academy-learning\\Projects\\HabitTracker_ConsoleApp\\obj\\",
+        "outputPath": "C:\\Users\\marti\\source\\CodeReviews.csharp-academy\\HabitTracker.ConsoleApp-DreamFXX\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
