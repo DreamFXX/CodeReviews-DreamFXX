@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("HabitTracker_ConsoleApp")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5c5caf411cf22e125d082f8d120aa3aea4e7d304")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ca30c7605e0a19948d3c2a9c00216bbbec2fc48d")]
 [assembly: System.Reflection.AssemblyProductAttribute("HabitTracker_ConsoleApp")]
 [assembly: System.Reflection.AssemblyTitleAttribute("HabitTracker_ConsoleApp")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
